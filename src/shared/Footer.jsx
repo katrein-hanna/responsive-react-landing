@@ -1,4 +1,3 @@
-import React from "react";
 import logo from "../assets/logo.png";
 import fbImg from "../assets/facebook.png";
 import instaImg from "../assets/instagram.png";
@@ -8,7 +7,7 @@ import linkedImg from "../assets/linkedin.png";
 function Footer() {
   return (
     <>
-      <div className="bg-[#010851] md:px-14 p-4 max-w-screen-2xl mx-auto text-white">
+      <div className="bg-[#010851] md:px-14 p-4 w-full mx-auto text-white">
         <div className="my-12 flex flex-col md:flex-row gap-10">
           <div className="md:w-1/2 space-y-8">
             <a

@@ -1,4 +1,4 @@
-# 🏡 Responsive Real Estate Landing Page
+# 🏡 Responsive institution Landing Page
 
 A responsive and modern real estate landing page built with **React**, **Vite**, and **Tailwind CSS**. This project demonstrates a clean UI, smooth transitions, and responsive layout across devices.
 
@@ -6,7 +6,7 @@ A responsive and modern real estate landing page built with **React**, **Vite**,
 
 ## 🚀 Features
 
-- 📱 Fully responsive layout
+- 📱 Fully responsive layout with framer motion
 - 🎨 Modern design with Tailwind CSS
 - ⚡ Fast performance using Vite
 - 🧩 Component-based architecture
@@ -24,7 +24,13 @@ A responsive and modern real estate landing page built with **React**, **Vite**,
 
 ## 📸 Screenshots
 
-_Add 1–2 screenshots here if possible to show off the design_
+### 🖥️ Desktop View
+
+![Desktop View](/public/screenshots/home.png)
+
+### 📱 Mobile View
+
+![Mobile View](/public/screenshots/mobile-view.png)
 
 ---
 
