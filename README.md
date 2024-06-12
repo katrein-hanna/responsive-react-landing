@@ -22,18 +22,6 @@ A responsive and modern real estate landing page built with **React**, **Vite**,
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Desktop View
-
-![Desktop View](/public/screenshots/home.png)
-
-### 📱 Mobile View
-
-![Mobile View](/public/screenshots/mobile-view.png)
-
----
-
 ## 🚀 Live Demo
 
 [View Demo on Netlify](https://real-estate-home-land.netlify.app/)
